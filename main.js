@@ -1,2 +1,3 @@
 var num = 50;
-var truth = "Hello Flatter Earth!";
+<<<<<<< HEAD
+var truth = "Hello Cats!";
